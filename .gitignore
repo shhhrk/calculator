@@ -33,4 +33,6 @@
 *.app
 # databases
 *.db
+*.suo
+*.VC.db
 \Calculator\.vs\Calculator\v16\Browse.VC.db
