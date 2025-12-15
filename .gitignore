@@ -33,3 +33,4 @@
 *.app
 # databases
 *.db
+\Calculator\.vs\Calculator\v16\Browse.VC.db
